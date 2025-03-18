@@ -22,8 +22,8 @@ print(get_author(get_book_by_id('AAECTkuGjWo1Imwr-_6UrN-nzbo89sd3WSM', 3)))
 # Гипотеза 4: Нерпавильный токен
 # Способ проверки: Поменять 1 и 'AAECTkuGjWo1Imwr-_6UrN-nzbo89sd3WSM' местами
 # Код для проверки: print(get_author(get_book_by_id('AAECTkuGjWo1Imwr-_6UrN-nzbo89sd3WSM', 1)))
-# Установленный факт: 
-# Вывод: ...
+# Установленный факт: аргументы перепутаны местами
+# Вывод: подается неправильный запрос
 
 # Гипотеза 5: ...
 # Способ проверки: ...
